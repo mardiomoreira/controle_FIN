@@ -1,0 +1,2 @@
+SELECT * FROM tbl_movimentacao;
+DELETE FROM tbl_movimentacao WHERE id_mov = 3
